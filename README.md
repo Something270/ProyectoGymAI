@@ -49,8 +49,6 @@ Con estos cambios el agente podra aprender sin problemas.
 
 
 ## Video
-Y aqui podemos ver el agente con 50 episodios de experiencia.
-
 https://user-images.githubusercontent.com/55809521/144765618-bad4d774-61da-49ad-a0bc-9151f05c6f28.mp4
 
 
